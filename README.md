@@ -4,7 +4,7 @@ Languages & Libraries: Java Swing
 
 Description: Algorithms is a program that can visually showcase any algorithm and show how they work to find a target node in a grid. As of now, Dijkstra's, A*, and Depth-First
 Search have been implemented into the program. There is an origin node (teal circle) and a target node (rose circle). Once an algorithm is selected with the desired grid layout,
-the program begins searching for the taret node. Blue squares that pop up on the grid are squares that the algorithm has visited. Red squares are squares that are manually blocked
+the program begins searching for the target node. Blue squares that pop up on the grid are squares that the algorithm has visited. Red squares are squares that are manually blocked
 by the user and act as walls. After the target node is found, green squares will pop up demonstrating the shortest path from the origin node to the target node according to the 
 algorithm's findings. 
 
