@@ -14,4 +14,5 @@ locations on the grid. The 'Generate' button generates a maze with randomly asso
 'Start' begins executing the selected algorithm according to the current state of the layout. 'Reset' resets the whole board and the internal data. 
 
 Known Bugs: The user can still move the origin and target node while an algorithm is being executed. The 'Depth First Search' algorithm sometimes doesn't showcase the shortest path
-it has found. 
+it has found. If dragged too quickly, the program will only register the previous coordinates of the nodes, creating a mismatch between the visual and interal locations.
+
